@@ -43,12 +43,22 @@ pip install tensorflow
 ```
 
 ### Step 1: 
-Importing the dataset:
+Download the dataset:
 
-The provided train.sdf dataset should be given to the load method to read the data.
+Download the data.zip file and extract it.
+
 
 ### Step2:
-Run the program
+Downloading the Python file:
+
+Download the predictting-the-efficiency-of-anti-cancer-drug.py file into the same folder where the train.sdf file present.
+
+
+### Step3:
+Run the program:
+
+The provided train.sdf dataset should be given to the load method in the python program to read the data.
+
 
 
 
