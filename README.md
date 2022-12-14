@@ -49,7 +49,7 @@ Download the data.zip file and extract it.
 
 
 ### Step2:
-Downloading the Python file:
+Download the Python file:
 
 Download the predictting-the-efficiency-of-anti-cancer-drug.py file into the same folder where the train.sdf file present.
 
