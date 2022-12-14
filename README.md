@@ -47,7 +47,7 @@ Importing the dataset:
 
 The provided train.sdf dataset should be given to the load method to read the data.
 
-### Step3:
+### Step2:
 Run the program
 
 
