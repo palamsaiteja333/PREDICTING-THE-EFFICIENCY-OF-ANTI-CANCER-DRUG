@@ -29,8 +29,8 @@ docker run predicting-the-efficiency-of-anti-cancer-drug
 # Using Python:
 
 **Note:** 
-In order to run the program in your Local Machine, the following Modules must be installed. 
-The modules can be installed in the Local Machine using the following command:
+In order to run the program in your Local Machine, the following libraries must be installed. 
+The libraries can be installed in the Local Machine using the following command:
 
 ```bash
 pip install networkx
