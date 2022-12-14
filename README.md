@@ -23,7 +23,7 @@ docker pull devops333/predicting-the-efficiency-of-anti-cancer-drug
 Now run the image that is downloaded using the following command:
 
 ```bash
-docker run predicting-the-efficiency-of-anti-cancer-drug
+docker run devops333/predicting-the-efficiency-of-anti-cancer-drug
 ```
 
 # Using Python:
@@ -58,12 +58,3 @@ Download the predictting-the-efficiency-of-anti-cancer-drug.py file into the sam
 Run the program:
 
 The provided train.sdf dataset should be given to the load method in the python program to read the data.
-
-
-
-
-
-
-
-
-
