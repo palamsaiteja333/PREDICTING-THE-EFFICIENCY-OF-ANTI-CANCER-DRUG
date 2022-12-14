@@ -26,7 +26,7 @@ Now run the image that is downloaded using the following command:
 docker run predicting-the-efficiency-of-anti-cancer-drug
 ```
 
-# Using Jupyter Notebook:
+# Using Python:
 
 **Note:** 
 In order to run the program in your Local Machine, the following Modules must be installed. 
