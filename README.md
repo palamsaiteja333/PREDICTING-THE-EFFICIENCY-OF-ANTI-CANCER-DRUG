@@ -16,14 +16,14 @@ Link to install Docker: https://docs.docker.com/get-docker/
 Pull the docker image from the Docker repository using the following command:
 
 ```bash
-docker pull devops333/predicting-the-efficiency-of-anti-cancer-drug
+docker pull devops333/predicting_the_efficiency_of_anti_cancer_drug
 ```
 
 ### Step2:
 Now run the image that is downloaded using the following command:
 
 ```bash
-docker run devops333/predicting-the-efficiency-of-anti-cancer-drug
+docker run devops333/predicting_the_efficiency_of_anti_cancer_drug
 ```
 
 # Using Python:
