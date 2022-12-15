@@ -6,7 +6,7 @@ The python program PREDICTING-THE-EFFICIENCY-OF-ANTI-CANCER-DRUG.py can be run i
 # Using Python:
 
 **Note:** 
-In order to run the program in your Local Machine, the following libraries must be installed. 
+In order to run the this program in the Local Machine, the following libraries must be installed. 
 The libraries can be installed in the Local Machine using the following command:
 
 ```bash
@@ -66,7 +66,7 @@ docker run devops333/predicting_the_efficiency_of_anti_cancer_drug
 ```
 
 ### Step3:
-After Step2, a container will start running which is an instance of the image (devops333/predicting_the_efficiency_of_anti_cancer_drug) and shortly you will get two URL's informing to copy and paste one of these URL's to access the output.
+After Step2, a container will start running which is an instance of the image (**devops333/predicting_the_efficiency_of_anti_cancer_drug**) and when the run is finished, URL's are shown in the terminal informing to copy and paste one of these URL's to access the output.
 
 
 **Docker Resource:**
