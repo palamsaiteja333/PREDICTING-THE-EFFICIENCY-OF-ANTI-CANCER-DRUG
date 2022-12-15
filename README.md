@@ -3,6 +3,43 @@ Deployed Graph Neural Network to predict the efficiency of anti-cancer drugs.
 
 The python program PREDICTING-THE-EFFICIENCY-OF-ANTI-CANCER-DRUG.py can be run in the following ways:
 
+# Using Python:
+
+**Note:** 
+In order to run the program in your Local Machine, the following libraries must be installed. 
+The libraries can be installed in the Local Machine using the following command:
+
+```bash
+pip install networkx
+```
+```bash
+pip install tf2_gnn
+```
+```bash
+pip install tensorflow
+```
+
+### Step 1: 
+Download the dataset:
+
+Download the train.sdf file.
+
+
+### Step2:
+Download the Python file:
+
+Download the predictting-the-efficiency-of-anti-cancer-drug.py file into the same folder where the train.sdf file present.
+
+
+### Step3:
+Run the program:
+
+If both the given dataset file (train.sdf) and python program (predictting-the-efficiency-of-anti-cancer-drug.py) are in the same folder then the python program can be executed without any changes to the program.
+
+If the location of train.sdf dataset is in different folder then the location of the dataset should be given to the load method in the python program to read the data.
+
+
+
 # Using Docker:
 
 **Note:** 
@@ -26,35 +63,5 @@ Now run the image that is downloaded using the following command:
 docker run devops333/predicting_the_efficiency_of_anti_cancer_drug
 ```
 
-# Using Python:
-
-**Note:** 
-In order to run the program in your Local Machine, the following libraries must be installed. 
-The libraries can be installed in the Local Machine using the following command:
-
-```bash
-pip install networkx
-```
-```bash
-pip install tf2_gnn
-```
-```bash
-pip install tensorflow
-```
-
-### Step 1: 
-Download the dataset:
-
-Download the data.zip file and extract it.
-
-
-### Step2:
-Download the Python file:
-
-Download the predictting-the-efficiency-of-anti-cancer-drug.py file into the same folder where the train.sdf file present.
-
-
 ### Step3:
-Run the program:
-
-The provided train.sdf dataset should be given to the load method in the python program to read the data.
+After Step2, a container will start running which is an instance of the image (devops333/predicting_the_efficiency_of_anti_cancer_drug) and shortly you will get two URL's informing to copy and paste one of these URL's to access the output.
