@@ -20,9 +20,11 @@ pip install tensorflow
 ```
 
 ### Step 1: 
-Download the dataset:
+Download and Extract the dataset file:
 
-Download the train.sdf file.
+Download the data.zip file and extract it; on extracting the data.zip file, train.sdf can be found.
+
+Place the train.sdf file in a folder of your choice.
 
 
 ### Step2:
