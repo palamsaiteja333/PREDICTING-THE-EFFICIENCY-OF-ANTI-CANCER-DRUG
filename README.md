@@ -1,7 +1,7 @@
 # PREDICTING-THE-EFFICIENCY-OF-ANTI-CANCER-DRUG
 Deployed Graph Neural Network to predict the efficiency of anti-cancer drugs.
 
-The python program PREDICTING-THE-EFFICIENCY-OF-ANTI-CANCER-DRUG.py can be run in the following ways:
+The python program PREDICTING-THE-EFFICIENCY-OF-ANTI-CANCER-DRUG.py can be run in the following two ways:
 
 # Using Python:
 
